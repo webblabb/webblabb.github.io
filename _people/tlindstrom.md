@@ -1,7 +1,7 @@
 ---
 title: Tom Lindstrom
 category: former-postdoc
-website: 
+website: https://www.ifm.liu.se/theomod/theobio/staff/tomli/
 ---
 
-Sweden
+Linkoping University, Sweden

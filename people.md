@@ -135,7 +135,6 @@ title: People
 	</td>
 	<td>
 	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.email }}
 	{{ person.content }}
 	</td>
 	</tr>
@@ -153,7 +152,6 @@ title: People
 	</td>
 	<td>
 	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.email }}
 	{{ person.content }}
 	</td>
 	</tr>
@@ -173,7 +171,6 @@ title: People
 	</td>
 	<td>
 	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.email }}
 	{{ person.content }}
 	</td>
 	</tr>
@@ -193,7 +190,6 @@ title: People
 	</td>
 	<td>
 	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.email }}
 	{{ person.content }}
 	</td>
 	</tr>

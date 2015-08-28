@@ -1,9 +1,9 @@
 ---
 title: Nels Johnson
-category: postdoc
+category: former-postdoc
 image: nels.jpg
-website: http://sites.biology.colostate.edu/nels/nelspage.html
-email: nels@rams.colostate.edu
+website: http://www.nimbios.org/~nels.johnson/
 ---
 
-Interests.
+NIMBioS
+

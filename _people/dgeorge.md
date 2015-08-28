@@ -4,4 +4,4 @@ category: former-student
 website: 
 ---
 
-Infectious Disease Analyst, Department of Defense
+White House Office of Science and Technology Policy

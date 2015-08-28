@@ -1,8 +1,8 @@
 ---
 title: Dan Grear
 category: former-postdoc
-website: 
+website: http://www.nwhc.usgs.gov/staff/dan_grear.jsp
 ---
 
-Something, USDA
+USGS National Wildlife Health Center
 

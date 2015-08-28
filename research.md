@@ -8,7 +8,6 @@ title: Research
 ### Great Plains Methane
 
 Project description, picture, etc.
-![research](/assets/network.png)
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
@@ -17,15 +16,15 @@ Project description, picture, etc.
 {% endif %}
 {% endfor %}
 
-## Disease
+## Disease ecology
+
 
 ### Wildlife disease
 
-Text.
+
 
 ### Livestock disease
 
-Text.
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
@@ -33,8 +32,3 @@ Text.
   {{ pub.content }}
 {% endif %}
 {% endfor %}
-
-
-## Ecology
-
-Text?

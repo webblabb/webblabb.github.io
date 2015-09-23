@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Webb Lab(b)
 tagline:          'CSU'
-description:      'Theoretical evolutionary ecology'
+description:      'Modeling ecology and evolution'
 url:              
 baseurl:          /
 

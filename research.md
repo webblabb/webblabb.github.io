@@ -5,30 +5,44 @@ title: Research
 
 ## Traits-based ecology
 
-### Great Plains Methane
-
 Project description, picture, etc.
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "gpm" %}
+{% if pub.project == "traits" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}
 
 ## Disease ecology
 
-
-### Wildlife disease
-
-
-
-### Livestock disease
-
+Project description, picture, etc.
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
 {% if pub.project == "disease" %}
+  {{ pub.content }}
+{% endif %}
+{% endfor %}
+
+## Livestock epidemiology
+
+Project description, picture, etc.
+
+### Recent Publications
+{% for pub in site.publications reversed %}
+{% if pub.project == "livestock" %}
+  {{ pub.content }}
+{% endif %}
+{% endfor %}
+
+## Miscellaneous
+
+Project description, picture, etc.
+
+### Recent Publications
+{% for pub in site.publications reversed %}
+{% if pub.project == "other" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}

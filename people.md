@@ -178,23 +178,6 @@ title: People
 {% endfor %}
 </tbody></table>
 
-### Undergraduates
 
-<table style="width:100%"><tbody>
-{% for person in site.people %}
-{% if person.category == "former-undergrad" %}
-	<tr>
-	<td style='text-align: center;
-	padding-bottom: 0;
-	width: 200px'>
-	</td>
-	<td>
-	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.content }}
-	</td>
-	</tr>
-{% endif %}
-{% endfor %}
-</tbody></table>
 
 

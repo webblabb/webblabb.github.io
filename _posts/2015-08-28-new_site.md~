@@ -1,6 +1,0 @@
----
-title: Welcome to the new lab site!
-layout: post
----
-
-After years and years of neglect, the lab finally has a shiny new site. Built using [jekyll](http://jekyllrb.com) and [hyde](http://hyde.getpoole.com/) and hosted on [Github pages](https://pages.github.com/).  The github repository containing the underlying source code is available at (https://github.com/webblabb/webblabb.github.io).

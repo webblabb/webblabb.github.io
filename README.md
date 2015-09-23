@@ -10,7 +10,7 @@ All lab members, past and present, have a file in the `_people` directory named 
 ```
 ---
 title: First Last
-category: {pi, staff, phd, postdoc, former-staff, former-pdh, former-postdoc}
+category: {pi, staff, phd, postdoc, former-staff, former-phd, former-postdoc}
 image: {name of image in assets/people folder}
 website:
 email:
@@ -27,18 +27,16 @@ All publications that appear on the website have a file in the `_publications` f
 authors: {list of all lab authors, names must be the same as title on the people page}
 project: {traits, disease, livestock, other}
 year:
-short: {Shortened citation to show up under the blurb on the author's blurb on the people page (this should be in quotes to avoid issues with colons)}
+short: {Shortened citation to show up under the author's blurb on the people page (this should be in quotes to avoid issues with colons)}
 link:
 ---
 ```
  
-The main body of the file should provide the full citation for the paper.  
-All papers with Colleen as an author (i.e. lab papers) will appear in reverse-chronobllogical order on the Publications page.
-Papers tagged with a project will show up under that project on the Research page, and each person's most recent publication will show up under their blurb on the people page.
+The main body of the file should provide the full citation for the paper.  All papers with Colleen as an author (i.e. lab papers) will appear in reverse-chronobllogical order on the Publications page.  Papers tagged with a project will show up under that project on the Research page, and each person's most recent publication will show up under their blurb on the people page.
 
 ## Posts
 
-News items and/or blog posts go in the `_posts` folder with name `yyyy-mm-dd-title.md` and required the following front matter:
+News items and/or blog posts go in the `_posts` folder with name `yyyy-mm-dd-title.md` and require the following front matter:
 
 ```
 ---

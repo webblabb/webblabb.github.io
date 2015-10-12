@@ -6,4 +6,4 @@ website:
 email: bengolasvmd@gmail.com
 ---
 
-Interests.
+I am primarily interested in wildlife disease ecology. My veterinary background is incorporated into my research to determine and analyze methods of management to best benefit animal, human, and ecosystem health.

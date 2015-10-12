@@ -1,8 +1,8 @@
 ---
 title: Ben Golas
 category: phd
-image: 
-website: 
+image: Ben.jpg
+website: bengolas.weebly.com
 email: bengolasvmd@gmail.com
 ---
 

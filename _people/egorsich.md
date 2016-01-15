@@ -6,4 +6,4 @@ image: erin.jpg
 email: eringorsich@gmail.com
 ---
 
-Interests.
+Oregon State University

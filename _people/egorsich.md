@@ -1,6 +1,6 @@
 ---
 title: Erin Gorsich
-category: postdoc
+category: former-postdoc
 website: http://www.eringorsich.com/
 image: erin.jpg
 email: eringorsich@gmail.com

@@ -1,6 +1,6 @@
 ---
 title: Katie Hartmann
-category: staff
+category: former-staff
 website:
 image: 
 email: kahartma@rams.colostate.edu

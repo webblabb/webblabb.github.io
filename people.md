@@ -125,23 +125,6 @@ title: People
 
 ## Former members
 
-### Staff
-
-<table style="width:100%"><tbody>
-{% for person in site.people %}
-{% if person.category == "former-staff" %}
-	<tr>
-	<td style='width: 200px'>
-	</td>
-	<td>
-	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
-	{{ person.content }}
-	</td>
-	</tr>
-{% endif %}
-{% endfor %}
-</tbody></table>
-
 ### Students
 
 <table style="width:100%"><tbody>
@@ -178,6 +161,22 @@ title: People
 {% endfor %}
 </tbody></table>
 
+### Staff
+
+<table style="width:100%"><tbody>
+{% for person in site.people %}
+{% if person.category == "former-staff" %}
+	<tr>
+	<td style='width: 200px'>
+	</td>
+	<td>
+	<h3><a href="{{ person.website }}">{{ person.title }}</a></h3>
+	{{ person.content }}
+	</td>
+	</tr>
+{% endif %}
+{% endfor %}
+</tbody></table>
 
 
 

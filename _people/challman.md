@@ -2,8 +2,8 @@
 title: Clay Hallman
 category: staff
 website:
-image: 
-email: clayton.hallman@colostate.edu
+image: clay.jpg
+email: clay.hallman@colostate.edu
 ---
 
-Interests.
+My general interests are in how statistical, mathematical and computational tools can be used to model biological processes.

@@ -5,7 +5,7 @@ permalink:        pretty
 title:            Webb Lab(b)
 tagline:          'CSU'
 description:      'Modeling ecology and evolution'
-url:              
+url:
 baseurl:          /
 
 author:
@@ -21,3 +21,5 @@ github:
 collections:
 - people
 - publications
+
+markdown:  Pandoc

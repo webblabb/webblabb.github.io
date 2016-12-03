@@ -1,12 +1,12 @@
 ---
 title: Gabriel Gellner
 category: postdoc
-image: gabe.jpg
+image: gabe.png
 website: https://gabrielgellner.com/
 email: gabrielgellner@gmail.com
 ---
 
-I have studied the structure and function of food webs in order to
+I study the structure and function of food webs in order to
 better understand our environment and the dynamics of biological
 complexity. I’m interested in topics in theoretical ecology and
 population biology which explore how biodiversity affects ecological

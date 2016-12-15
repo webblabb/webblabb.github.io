@@ -2,8 +2,8 @@
 title: Tanya Dewey
 category: staff
 website:
-image: 
-email: 
+image: tanya.jpg
+email: tdewey@rams.colostate.edu
 ---
 
-Interests.
+I teach introductory biology at CSU and help manage grants and contracts in the Webb Lab. My interests are in the systematics, phylogeography, and movement dynamics of Myotis bat species.

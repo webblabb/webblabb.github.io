@@ -36,9 +36,7 @@ Disease outbreaks are a major threat to agricultural systems.  We use surveillan
 {% endif %}
 {% endfor %}
 
-## Miscellaneous
-
-Project description, picture, etc.
+## Other
 
 ### Recent Publications
 {% for pub in site.publications reversed %}

@@ -5,7 +5,7 @@ permalink:        pretty
 title:            Webb Lab(b)
 tagline:          'CSU'
 description:      'Modeling ecology and evolution'
-url:               webblabb.github.io
+url:               http://webblabb.github.io
 baseurl:          /
 
 author:
@@ -13,7 +13,6 @@ author:
   url:            clint-leach.github.io
 
 paginate:         5
-
 
 github:
   repo:           https://github.com/webblabb/webblabb.github.io

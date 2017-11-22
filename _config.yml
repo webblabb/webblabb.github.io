@@ -6,7 +6,7 @@ title:            Webb Lab(b)
 tagline:          'CSU'
 description:      'Modeling ecology and evolution'
 url:              http://webblabb.github.io
-baseurl:          "/"
+baseurl:          https://webblabb.github.io
 
 author:
   name:           'Clint Leach'

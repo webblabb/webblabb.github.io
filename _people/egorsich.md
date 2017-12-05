@@ -2,7 +2,7 @@
 title: Erin Gorsich
 category: postdoc
 website: http://www.eringorsich.com/
-image: erin.jpg
+image: erin-new.jpg
 email: eringorsich@gmail.com
 ---
 

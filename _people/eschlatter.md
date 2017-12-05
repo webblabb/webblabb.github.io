@@ -1,5 +1,5 @@
 ---
-title: Emma Schlatter
+title: E Schlatter
 category: phd
 image: emma.jpg
 website:

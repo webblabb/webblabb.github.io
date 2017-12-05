@@ -1,8 +1,6 @@
 ---
 title: Michael Buhnerkempe
 category: former-student
-website: http://buhnrkmp.bol.ucla.edu/
+website: https://www.siumed.edu/im/faculty/michael-buhnerkempe.html
 ---
-
-UCLA
-
+School of Medicine, Southern Illinois University

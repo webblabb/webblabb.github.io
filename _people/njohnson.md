@@ -2,8 +2,7 @@
 title: Nels Johnson
 category: former-postdoc
 image: nels.jpg
-website: http://www.nimbios.org/~nels.johnson/
+website: https://www.fs.fed.us/research/people/profile.php?alias=nelsjohnson
 ---
-
-NIMBioS
+US Forest Service
 

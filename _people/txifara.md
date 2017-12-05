@@ -1,6 +1,6 @@
 ---
 title: Tatiana Xifara
-category: postdoc
+category: former-postdoc
 image: tatiana.jpg
 website: 
 email: tatiana.xifara@colostate.edu

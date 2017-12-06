@@ -2,7 +2,7 @@
 title: Clif McKee
 category: phd
 website: https://cliftonmckee.weebly.com/
-image: clif.jpg
+image: clif-new.jpg
 email: clifton.mckee@colostate.edu
 ---
 

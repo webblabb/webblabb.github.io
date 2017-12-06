@@ -2,7 +2,7 @@
 authors: Colleen Webb
 project: disease
 year: 2016
-short: Lo Iacono, G. et al. 2016. A unified framework for the infection dynamics of zoonotic spillover and spread. PLoS Neglected Tropical Diseases 10(9): e0004957.
+short: "Lo Iacono, G. et al. 2016. A unified framework for the infection dynamics of zoonotic spillover and spread. PLoS Neglected Tropical Diseases 10(9): e0004957."
 link: https://doi.org/10.1371/journal.pntd.0004957
 ---
   

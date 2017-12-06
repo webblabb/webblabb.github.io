@@ -2,7 +2,7 @@
 authors: Colleen Webb
 project: livestock
 year: 2017
-short: Dannemiller, N.G. et al. 2017. Impact of body condition on influenza A virus infection dynamics in mallards following a secondary exposure. PloS ONE 12(4): e0175757.
+short: "Dannemiller, N.G. et al. 2017. Impact of body condition on influenza A virus infection dynamics in mallards following a secondary exposure. PloS ONE 12(4): e0175757."
 link: https://doi.org/10.1371/journal.pone.0175757
 ---
   

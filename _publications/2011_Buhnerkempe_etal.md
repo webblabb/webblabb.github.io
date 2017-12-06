@@ -1,6 +1,6 @@
 ---
 authors: Colleen Webb
-project: other
+project: disease
 year: 2011
 short: "Buhnerkempe, M.G. et al. 2011. Transmission shifts underlie variability in population responses to *Yersinia pestis* infection. PLoS ONE 6(7): e22498."
 link: https://doi.org/10.1371/journal.pone.0022498

@@ -2,7 +2,7 @@
 title: Deedra Murrieta
 category: staff
 website:
-image:
+image: deedra.jpg
 email: deedram@rams.colostate.edu
 ---
   

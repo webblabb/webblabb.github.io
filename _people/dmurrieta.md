@@ -6,4 +6,4 @@ image:
 email: deedram@rams.colostate.edu
 ---
   
-My interests lie in applying strategies in statistical method to biological applications and to develop algorithms that enable efficient and effective information processing.
+My interests lie in applying strategies in statistical methods to biological applications and to develop algorithms that enable efficient and effective information processing.

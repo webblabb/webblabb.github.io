@@ -5,7 +5,7 @@ website: http://www.kimtsao.com/wordpress/
 image: kim.jpg
 email: kim.tsao@colostate.edu
 ---
-USDA APHIS
+USDA APHIS Center for Epidemiology and Animal Health
 
 <!--
 I think parasitism is brilliant. I get particularly excited when studying factors driving pathogen transmission among communities, which often include wildlife, vectors, domestic animals, and

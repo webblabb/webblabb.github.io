@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb, Erin Gorsich, Clif McKee
+project: livestock
+year: 2018
+short: "Gorsich, E.E. et al. 2018. Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S. Preventive Veterinary Medicine 150: 52-59."
+link: https://doi.org/10.1016/j.prevetmed.2017.12.004
+---
+
+Gorsich, E.E., McKee, C.D., Grear D.A., Miller, R.S., Portacci, K., Lindstrom, T., Webb, C.T. 2018. Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S. [Preventive Veterinary Medicine 150: 52-59.](https://doi.org/10.1016/j.prevetmed.2017.12.004)

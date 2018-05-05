@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb
+project: livestock
+year: 2018
+short: "Gorsich, E.E. et al. 2018. Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S. Preventive Veterinary Medicine 150: 52-59."
+link: https://doi.org/10.1371/journal.pcbi.1006086
+---
+
+Sellman, S., Tsao, K., Tildesley, M.J., Brommesson, P., Webb, C.T., Wennergren, U., Keeling M.J., Lindstrom T. 2018. Need for speed: An optimized gridding approach for spatially explicit disease simulations. [PLoS Computational Biology 14(4): e1006086.](https://doi.org/10.1371/journal.pcbi.1006086)

@@ -1,7 +1,7 @@
 ---
 title: Dylan George
 category: former-student
-website: 
+website: https://www.linkedin.com/in/dylangeorge/
 ---
 
-White House Office of Science and Technology Policy
+B.Next, In-Q-Tel

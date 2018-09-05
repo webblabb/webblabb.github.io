@@ -1,7 +1,0 @@
----
-title: Katie Owers
-category: postdoc
-website: 
-image: mark.jpg
-email: mqwilber@gmail.com
----

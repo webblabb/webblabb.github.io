@@ -2,7 +2,7 @@
 title: Clif McKee
 category: phd
 website: https://cliftonmckee.weebly.com/
-image: clif-new.jpg
+image: clif.png
 email: clifton.mckee@gmail.com
 ---
 

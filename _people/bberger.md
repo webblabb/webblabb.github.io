@@ -2,7 +2,7 @@
 title: Brooke Berger
 category: phd
 website:
-image:
+image: brooke.jpg
 email: brooke.berger@colostate.edu
 ---
 

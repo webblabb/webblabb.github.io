@@ -1,7 +1,6 @@
 ---
 title: Mark Wilber
-category: postdoc
+category: former-postdoc
 website: 
 image: mark.jpg
-email: mqwilber@gmail.com
 ---

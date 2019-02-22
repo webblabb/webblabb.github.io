@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb
+project: traits
+year: 2018
+short: "Tabak, M.A. et al. 2018. Propagule size and structure, life history, and environmental conditions affect establishment success of an invasive species. Scientific Reports 8(1): 10313."
+link: https://doi.org/10.1038/s41598-018-28654-w
+---
+
+Tabak, M.A., Webb, C.T., Miller, R.S. 2018. Propagule size and structure, life history, and environmental conditions affect establishment success of an invasive species. [Scientific Reports 8(1): 10313.](https://doi.org/10.1038/s41598-018-28654-w)

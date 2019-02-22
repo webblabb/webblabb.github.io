@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb, Clint Leach
+project: disease
+year: 2018
+short: "Hayman, D.T.S. et al. 2018. Maternal antibody and the maintenance of a lyssavirus in populations of seasonally breeding African bats. PLoS ONE 13(6): e0198563."
+link: https://doi.org/10.1371/journal.pone.0198563
+---
+
+Hayman, D.T.S., Luis, A.D., Restif, O., Baker, K.S., Fooks, A.R., Leach, C., Horton, D.L., Suu-Ire, R., Cunningham, A.A., Wood, J.L.N., Webb, C.T. 2018. Maternal antibody and the maintenance of a lyssavirus in populations of seasonally breeding African bats. [PLoS ONE 13(6): e0198563.](https://doi.org/10.1371/journal.pone.0198563)

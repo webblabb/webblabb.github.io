@@ -28,6 +28,7 @@ In our disease research, we focus on the ecology and evolution of wildlife disea
 ## Livestock epidemiology
 
 Disease outbreaks are a major threat to agricultural systems.  We use surveillance data to estimate contact networks due to transmission from multiple routes (e.g. livestock shipments, local spread) and simulations to determine which transmission routes have greatest risk and which control methods would be most effective.  Additional work with an international collaborative network is to develop ensemble methods for livestock disease prediction.  Livestock diseases of interest include avian influenza, bovine tuberculosis and foot and mouth disease.
+For more information on this work, please see the web page for the [USAMM/USDOS project](https://webblabb.github.io/usammusdos).
 
 ### Recent Publications
 {% for pub in site.publications reversed %}

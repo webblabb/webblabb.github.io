@@ -1,8 +1,7 @@
 ---
 title: Greg Ames
 category: former-student
-website: http://people.duke.edu/~ga47/Home.html
+website: https://www.linkedin.com/in/gregory-a-b4a765147/
 ---
 
-Duke University
-
+Novozymes

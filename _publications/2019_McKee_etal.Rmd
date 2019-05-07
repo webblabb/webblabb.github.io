@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb, Clif McKee
+project: disease
+year: 2019
+short: "McKee, C.D. et al. 2019. Host phylogeny, geographic overlap, and roost sharing shape parasite communities in European bats. Frontiers in Ecology and Evolution 7: 69."
+link: https://doi.org/10.3389/fevo.2019.00069
+---
+
+McKee, C.D., Krawczyk, A.I., Sandor, A.D., Gorfol, T., Foldvari, M., Foldvari, G., Dekeukeleire, D., Haarsma, A.-J., Kosoy, M.Y., Webb, C.T., Sprong, H. 2019. Host phylogeny, geographic overlap, and roost sharing shape parasite communities in European bats. [Frontiers in Ecology and Evolution 7: 69.](https://doi.org/10.3389/fevo.2019.00069)

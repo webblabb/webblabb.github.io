@@ -1,7 +1,7 @@
 ---
 title: David T.S. Hayman
 category: former-postdoc
-website: http://davidtshayman.webstarts.com/index.html
+website: http://davidhayman.nz/
 ---
 
 Massey University, New Zealand

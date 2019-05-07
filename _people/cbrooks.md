@@ -1,7 +1,7 @@
 ---
 title: Christopher Brooks
 category: former-postdoc
-website: http://cpbrooks.wix.com/brookslabmain
+website: http://cpbrooks.wixsite.com/brookslabmain
 ---
 
 Mississippi State University

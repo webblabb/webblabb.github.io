@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb, Lindsay Beck-Johnson
+project: livestock
+year: 2019
+short: "Beck-Johnson, L.M. et al. 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. Preventive Veterinary Medicine 162: 56-66."
+link: https://doi.org/10.1016/j.prevetmed.2018.11.002
+---
+
+Beck-Johnson, L.M., Hallman, C., Miller, R.S., Portacci, K., Gorsich, E.E., Grear, D.A., Hartmann, K., Webb, C.T. 2019. Estimating and exploring the proportions of inter- and intrastate cattle shipments in the United States. [Preventive Veterinary Medicine 162: 56-66.](https://doi.org/10.1016/j.prevetmed.2018.11.002)

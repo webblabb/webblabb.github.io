@@ -1,7 +1,7 @@
 ---
 title: Andrew Kanarek
 category: former-student
-website: https://www.linkedin.com/in/andrewkanarek
+website: https://www.linkedin.com/in/andrewkanarek/
 ---
 
-U.S. Environmental Protection Agency
+US Environmental Protection Agency

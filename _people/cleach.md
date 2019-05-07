@@ -2,7 +2,7 @@
 title: Clint Leach
 category: phd
 image: clint.jpg
-website: http://clint-leach.github.io
+website: https://clint-leach.github.io/
 email: clint.leach@gmail.com
 ---
 

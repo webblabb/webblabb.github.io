@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb
+project: livestock
+year: 2019
+short: "Wilber, M.Q. et al. 2019. Modelling multi‐species and multi‐mode contact networks: implications for persistence of bovine tuberculosis at the wildlife–livestock interface. Journal of Applied Ecology 56(6): 1471-1481."
+link: https://doi.org/10.1111/1365-2664.13370
+---
+
+Wilber, M.Q., Pepin, K.M., Campa III, H., Hygnstrom, S.E., Lavelle, M.J., Xifara, T., VerCauteren, K.C., Webb, C.T. 2019. Modelling multi‐species and multi‐mode contact networks: implications for persistence of bovine tuberculosis at the wildlife–livestock interface. [Journal of Applied Ecology 56(6): 1471-1481.](https://doi.org/10.1111/1365-2664.13370)

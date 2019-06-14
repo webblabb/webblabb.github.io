@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb
+project: livestock
+year: 2019
+short: "Gorsich, E.E. et al. 2019. Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection. Scientific Reports 9: 3915."
+link: https://doi.org/10.1038/s41598-019-40556-z
+---
+
+Gorsich, E.E., Miller, R.S., Mask, H.M., Hallman, C., Portacci, K., Webb, C.T. 2019. Spatio-temporal patterns and characteristics of swine shipments in the U.S. based on Interstate Certificates of Veterinary Inspection. [Scientific Reports 9: 3915.](https://doi.org/10.1038/s41598-019-40556-z)

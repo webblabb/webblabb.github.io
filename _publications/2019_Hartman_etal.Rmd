@@ -1,0 +1,9 @@
+---
+authors: Colleen Webb
+project: livestock
+year: 2019
+short: "Hartman, D.A. et al. 2019. Entomological risk factors for potential transmission of Rift Valley fever virus around concentrations of livestock in Colorado. In press at Transboundary and Emerging Diseases."
+link: https://doi.org/10.1111/tbed.13206
+---
+
+Hartman, D.A., Rice, L.M., DeMaria, J., Borland, E.M., Bergren, N.A., Fagre, A.C., Robb, L.L., Webb, C.T., Kading, R.C. 2019. Entomological risk factors for potential transmission of Rift Valley fever virus around concentrations of livestock in Colorado. [In press at Transboundary and Emerging Diseases.](https://doi.org/10.1111/tbed.13206)

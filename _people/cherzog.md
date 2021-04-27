@@ -1,7 +1,7 @@
 ---
 title: Catherine Herzog
 category: postdoc
-website: 
+website: https://catherineherzog.weebly.com/
 image: 
 email: 
 ---

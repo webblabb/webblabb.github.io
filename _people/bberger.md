@@ -6,4 +6,4 @@ image: brooke-new.png
 email: brooke.berger@colostate.edu
 ---
 
-As a disease ecologist, I see myself at the interface of empirical data collection and data analysis where I can broaden general ecological knowledge and inform strategies to manage disease outbreaks and conserve wildlife populations. I am interested in how host population dynamics, biodiversity, and human disturbance alter patters of pathogen persistence and emergence across landscapes.
+I am a disease ecologist interested in how we can use pathogen surveillance data and apply tools from graph theory in a novel way, to better understand broad scale spatial transmission of multi-host disease systems. My dissertation research focuses on quantifying spatial patterns of prevalence, and modeling the international movement of avian influenza viruses via migratory waterfowl.  

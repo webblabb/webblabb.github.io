@@ -2,6 +2,6 @@
 title: Kendra Gilbertson
 category: phd
 website: 
-image: 
+image: kgilbertson.jpeg
 email: Kendra.Gilbertson@colostate.edu
 ---

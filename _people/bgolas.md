@@ -1,6 +1,6 @@
 ---
 title: Ben Golas
-category: phd
+category: postdoc
 image: golas_ProfilePic.png
 website: http://bengolas.weebly.com/
 email: bengolasvmd@gmail.com

@@ -2,7 +2,7 @@
 title: Catherine Herzog
 category: postdoc
 website: https://catherineherzog.weebly.com/
-image: c.herzog-4.jpg
+image: CHerzog_Headshot_March2022.jpg
 email: catherine.herzog@colostate.edu
 ---
 

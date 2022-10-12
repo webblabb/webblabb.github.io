@@ -1,6 +1,6 @@
 ---
 title: Brandon Simony
-category: phd
+category: former-student
 image: bsimony_hiking.jpg
 website:
 email: brandon.simony@colostate.edu

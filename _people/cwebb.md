@@ -1,7 +1,7 @@
 ---
 title: Colleen Webb
 category: pi
-image: colleen-new.jpg
+image: ColleenPhoto2024.jpg
 email: colleen.webb@colostate.edu
 ---
 

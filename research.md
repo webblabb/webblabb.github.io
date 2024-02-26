@@ -3,13 +3,14 @@ layout: page
 title: Research
 ---
 
-## Traits-based ecology
+## Livestock epidemiology
 
-Global change is intensifying efforts to predict how species composition will respond to environmental change and modify ecosystem function. Trait-based approaches are receiving considerable attention as they potentially provide badly needed improvements in prediction for community composition and ecosystem function. However, realization of this potential requires statistical and modeling tools that are in their infancy. We work in a number of different systems (e.g. grasslands, forests, fisheries, microbial communities) to determine how trait-based approaches can be generally informative.  We are interested in how many traits and environmental drivers are needed to describe a system, which types of traits are most informative, and how biodiversity patterns impact the usefulness of trait-based approaches.
+Disease outbreaks are a major threat to agricultural systems.  We use surveillance data to estimate contact networks due to transmission from multiple routes (e.g. livestock shipments, local spread) and simulations to determine which transmission routes have greatest risk and which control methods would be most effective.  Additional work with an international collaborative network is to develop ensemble methods for livestock disease prediction.  Livestock diseases of interest include avian influenza, bovine tuberculosis and foot and mouth disease.
+For more information on this work, please see the web page for the [USAMM/USDOS project](https://webblabb.github.io/usammusdos).
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "traits" %}
+{% if pub.project == "livestock" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}
@@ -25,14 +26,13 @@ In our disease research, we focus on the ecology and evolution of wildlife disea
 {% endif %}
 {% endfor %}
 
-## Livestock epidemiology
+## Traits-based ecology
 
-Disease outbreaks are a major threat to agricultural systems.  We use surveillance data to estimate contact networks due to transmission from multiple routes (e.g. livestock shipments, local spread) and simulations to determine which transmission routes have greatest risk and which control methods would be most effective.  Additional work with an international collaborative network is to develop ensemble methods for livestock disease prediction.  Livestock diseases of interest include avian influenza, bovine tuberculosis and foot and mouth disease.
-For more information on this work, please see the web page for the [USAMM/USDOS project](https://webblabb.github.io/usammusdos).
+Global change is intensifying efforts to predict how species composition will respond to environmental change and modify ecosystem function. Trait-based approaches are receiving considerable attention as they potentially provide badly needed improvements in prediction for community composition and ecosystem function. However, realization of this potential requires statistical and modeling tools that are in their infancy. We work in a number of different systems (e.g. grasslands, forests, fisheries, microbial communities) to determine how trait-based approaches can be generally informative.  We are interested in how many traits and environmental drivers are needed to describe a system, which types of traits are most informative, and how biodiversity patterns impact the usefulness of trait-based approaches.
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "livestock" %}
+{% if pub.project == "traits" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}

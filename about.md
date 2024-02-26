@@ -1,6 +1,6 @@
 The Webb Lab focuses on research that elucidates how interactions among individual organisms scale up to generate population or community level patterns through both ecological and evolutionary mechanisms.  We are particularly interested in trait-based ecology and in the dynamics of diseases.
 
-![lab photo](assets/webblab_groupphoto_zoom_fall2021.png)
+![lab photo](assets/WebbLab2024.png)
 
 The interactions of individuals are difficult to observe, yet they are the drivers of important population and community ecology patterns.  For example, host-pathogen interactions strongly impact the spatial, temporal and evolutionary patterns of disease, which we need to better understand in order to inform control of zoonotic diseases.  While interactions are difficult to observe, we can use models of different interaction types and their match to observed patterns to determine which interaction types are most important in driving the patterns we see.
 

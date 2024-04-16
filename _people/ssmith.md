@@ -1,6 +1,6 @@
 ---
 title: Sam Smith
-category: phd
+category: staff
 image: SamHeadShot2024.jpg
 website:
 email: sm.smith@colostate.edu

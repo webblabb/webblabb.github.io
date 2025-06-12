@@ -1,6 +1,6 @@
 ---
 title: Christopher Brandon
-category: {PhD}
+category: {phd}
 image: {name of image in assets/people folder}
 website:
 email:

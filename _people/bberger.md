@@ -1,6 +1,6 @@
 ---
 title: Brooke Berger
-category: phd
+category: postdoc
 website: https://www.brookeberger.net/
 image: bberger2022.jpg
 email: brooke.berger@colostate.edu
